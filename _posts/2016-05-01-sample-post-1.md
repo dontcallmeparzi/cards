@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Post"
+title:  "purr data apatch"
 categories: jekyll update
 ---
 
